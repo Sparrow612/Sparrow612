@@ -9,3 +9,9 @@
 - 💬 Ask me about college life.
 - 📫 How to reach me: rongxinCRX@outlook.com
 - ⚡ Fun fact: I'm a bug-writter.
+
+<!--START_SECTION:waka-->
+```text
+
+```
+<!--END_SECTION:waka-->
