@@ -7,12 +7,13 @@
 - 📫 How to reach me: rongxinCRX@outlook.com
 - 🧑🏻‍💻 My Blog: https://www.cnblogs.com/Sparrow612
 
+My research interest is distributed system, the current work is about RDMA systems and SmartNICs.
+
 ⚙️ Tech Stack
 + html5+css3+javascript
 + SpringBoot
 + Vue
 + Java, C++, Python
-+ A little about machine learning and deep learning
 
 🕸 Fun Fact
 * I'm a fan of Doctor Who.
