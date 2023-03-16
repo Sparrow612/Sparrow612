@@ -4,17 +4,20 @@
 
 🏃🏻 About Me
 - 🎓 I’m currently learning software engineering.
-- 📫 How to reach me: rongxinCRX@outlook.com
-- 🧑🏻‍💻 My Blog: https://www.cnblogs.com/Sparrow612
+- 📫 How to reach me: rxcheng612@sjtu.edu.cn
+<!-- - 🧑🏻‍💻 My Blog: https://www.cnblogs.com/Sparrow612 -->
 
-My research interest is distributed system, the current work is about RDMA systems and SmartNICs.
+My research interest is distributed system, the current work is about SmartNICs/DPUs.
 
 ⚙️ Tech Stack
-+ html5+css3+javascript
++ RDMA programming
++ C++ & Rust
++ NVIDIA DOCA
+<!-- + html5+css3+javascript
 + SpringBoot
 + Vue
-+ Java, C++, Python
++ Java, C++, Python -->
 
-🕸 Fun Fact
+<!-- 🕸 Fun Fact
 * I'm a fan of Doctor Who.
-* I have a bad habit of losing everything.
+* I have a bad habit of losing everything. -->
